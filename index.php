@@ -16,7 +16,7 @@ $(document).ready (function () {
 });
 
 function onResizeBody() {
-	// calcul de la taille des boutons dessous pour ajuster la taille du bandeau
+	// calcul de la taille des boutons dessous pour ajuster la taille du bandeau fjgh
 	
 	//alert ("larg du contener: " + $("#contener").css("width"));
 	

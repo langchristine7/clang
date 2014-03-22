@@ -1,0 +1,6 @@
+AuthUserFile /volume1/web/clang/admin/.htpasswd
+AuthName "Accès protégé"
+AuthType Basic
+
+#Require valid-user
+

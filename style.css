@@ -1,0 +1,82 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 480px)
+{
+	* {
+		background-color:red;
+	}
+    nav
+    {
+        display: block;
+        width: 100%;
+    }
+
+	#bandeau
+	{
+	}
+}
+
+
+#bandeau {
+	display:block;
+	height:120px;
+	background-color: #00BFBF;
+	text-align: center;
+	font:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	vertical-align: middle;
+	margin:5px;
+	border-radius:5px;
+}
+
+
+#blocBoutons {
+	background-color: #33C;
+	text-align: center;
+	font:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	vertical-align: middle;
+	margin:0px;
+}
+
+	
+a.choixbtn,a.choixbtn:link,a.choixbtn:visited > td
+{
+width:200px;
+height:100px;
+vertical-align:middle;
+display:block;
+float:left;
+color:#ffffff;
+background-color:#FFAD33;
+border:1px solid #FFAD33;
+font-weight:bold;
+font-size:14px;
+text-align:center;
+padding:10px;
+padding-top:1px;
+padding-bottom:2px;
+text-decoration:none;
+margin:5px;
+border-radius:5px;
+white-space:nowrap;
+}
+
+a.choixbtn:hover,a.choixbtn:active
+{
+background-color:#ffffff;color:#FFAD33;
+}
+
+
+footer{
+	clear:both;
+	display:block;
+	background-color: grey;
+	color: white;
+	padding: 5px; 
+  font-size: 1.2em;
+  border-radius:5px;
+	margin:5px;
+	/*padding:5px; */
+	}

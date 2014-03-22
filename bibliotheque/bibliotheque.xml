@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataroot>
+	<livres>
+		<id>101</id>
+		<titre>Patchwork Modèles pour tous</titre>
+		<auteur>Annette Claxton</auteur>
+		<editeur>Fleurus</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>102</id>
+		<titre>Patchworks Quilts Appliqués</titre>
+		<sstitre>Traditions du Monde</sstitre>
+		<auteur>Miranda Innes et Tina Ealovega</auteur>
+		<editeur>Dessain et Tolra</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>103</id>
+		<titre>Quilts Américains</titre>
+		<sstitre>Quilts, gabarits, photos &amp; anecdotes de tournage du fils "Le patchwork de la vie"</sstitre>
+		<auteur>Patty McCormick</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>104</id>
+		<titre>Little Quilts</titre>
+		<sstitre>All Through The House</sstitre>
+		<auteur>Alice Berg</auteur>
+		<editeur>That Patchwork Place</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>105</id>
+		<titre>Alphabets anciens à broder au point de croix</titre>
+		<auteur>Véronique Maillard</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>106</id>
+		<titre>Au pays des quilts</titre>
+		<auteur>Roderick Kiracofe et mary Elizabeth Johnson</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>107</id>
+		<titre>Encyclopédie des ouvrages de dames</titre>
+		<auteur>Thérèse De Dillmont</auteur>
+		<editeur>Solar</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2003-10-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>108</id>
+		<titre>Marie Claire Idées, Point de croix, plus de 200 motifs à broder</titre>
+		<auteur>Marie Claire Idées</auteur>
+		<editeur>Editions Marie claire</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-10-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>109</id>
+		<titre>Ma sorcière bien-aimée, L'imaginaire au pouvoir</titre>
+		<auteur>Christian &amp; Eric Cazalot</auteur>
+		<editeur>DLM Editions</editeur>
+		<categorie>Séries</categorie>
+	</livres>
+	<livres>
+		<id>110</id>
+		<titre>Carnet de point de croix Ours</titre>
+		<auteur>Isabelle Contreau</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>111</id>
+		<titre>Alphabets et monogrammes au point de croix</titre>
+		<auteur>Laurence Roque et Françoise Clozel</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-08-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>112</id>
+		<titre>Carnet de point de croix Porte-Bonheur du monde</titre>
+		<auteur>Isabelle Contreau</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-02-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>113</id>
+		<titre>Carnet de point de croix Abécédaires</titre>
+		<auteur>Aurélia Céruliei</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>114</id>
+		<titre>Harry Potter Carnet de point de croix</titre>
+		<auteur>Frédérique Deviller</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2002-09-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>115</id>
+		<titre>Carnet de point de croix Petits Métiers</titre>
+		<auteur>Perrette Samouïloff et isabelle Contreau</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>1905-06-23T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>116</id>
+		<titre>Le Bleu au point de croix</titre>
+		<auteur>Catherine Allègre-Papadacci</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2002-02-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>117</id>
+		<titre>Petits points de croix</titre>
+		<auteur>Catherine Allègre-Papadacci</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-08-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>118</id>
+		<titre>Minuscules &amp; Majuscules</titre>
+		<auteur>Valérie Lejeune</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-10-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>119</id>
+		<titre>Intérieurs de Charme, Canevas tricots et collages pour décorer la maison</titre>
+		<auteur>Kaffe Fassett</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>120</id>
+		<titre>Marquoirs</titre>
+		<auteur>Régine Deforges et Geneviève Dormann</auteur>
+		<editeur>Albin Michel</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>1905-06-20T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>121</id>
+		<titre>Le livre du point de croix</titre>
+		<auteur>Régine Deforges et Geneviève Dormann</auteur>
+		<editeur>Albin Michel</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>1905-06-20T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>122</id>
+		<titre>The world of Amish Quilts</titre>
+		<auteur>Rachel and Kenneth Pellman</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2003-09-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>123</id>
+		<titre>Boutis et Trapunto</titre>
+		<sstitre>Créations pour la maison</sstitre>
+		<auteur>Catherine Coget</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2003-09-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>124</id>
+		<titre>Frises &amp; Alphabets anciens bicolores</titre>
+		<auteur>Véronique Maillard</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>125</id>
+		<titre>Quilts Amish</titre>
+		<sstitre>et quelques autres patchworks mennonites</sstitre>
+		<auteur>Jacques et Catherine Legeret</auteur>
+		<editeur>Labor et Fides</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>126</id>
+		<titre>Amish Crib Quilts</titre>
+		<auteur>Rachel and Kenneth Pellman</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>127</id>
+		<titre>Rêves de fées</titre>
+		<sstitre>Créations pour chambres d'enfants</sstitre>
+		<auteur>Sandrine Sitaud</auteur>
+		<editeur>Solar</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2003-02-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>128</id>
+		<titre>Encadrez vos broderies</titre>
+		<auteur>Nathalie Brodu</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Bricolage</categorie>
+	</livres>
+	<livres>
+		<id>129</id>
+		<titre>Maisons de Poupées</titre>
+		<auteur>Christophe et Dominique Recoura</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Bricolage</categorie>
+		<dateachat>2000-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>130</id>
+		<titre>Reflets d'or et d'argent</titre>
+		<sstitre>Tissus précieux, appliqués, peints et rebrodés</sstitre>
+		<auteur>Ina Georgeta Statescu</auteur>
+		<editeur>Editions de Saxe</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2002-09-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>131</id>
+		<titre>Jan, ich Komme</titre>
+		<auteur>Christel Walter</auteur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>132</id>
+		<titre>100 Enfants</titre>
+		<auteur>Françoise Marchadier</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-02-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>133</id>
+		<titre>Broderies Romantiques des quatre saisons</titre>
+		<sstitre>avec plus de 25 modèles</sstitre>
+		<auteur>Elizabeth Bradley</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Broderie</categorie>
+	</livres>
+	<livres>
+		<id>134</id>
+		<titre>Verrières et vérandas</titre>
+		<auteur>Marie-Pierre Dubois Petroff</auteur>
+		<editeur>Massin</editeur>
+		<categorie>Décoration</categorie>
+	</livres>
+	<livres>
+		<id>135</id>
+		<titre>Peluches brodées</titre>
+		<auteur>Bernadette Baldelli</auteur>
+		<editeur>Editions du Chêne</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>136</id>
+		<titre>Quilts Amish &amp; Mennonites</titre>
+		<auteur>Jacques Légeret</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>137</id>
+		<titre>Nimm den Faden wieder auf</titre>
+		<auteur>Anne-Pia Godske Rasmussen</auteur>
+		<editeur>Kelematis</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>138</id>
+		<titre>Broderie Rubans</titre>
+		<editeur>Japonais</editeur>
+		<categorie>Broderie</categorie>
+	</livres>
+	<livres>
+		<id>139</id>
+		<titre>Tissus peints</titre>
+		<auteur>Anne Valéry</auteur>
+		<editeur>Hachette</editeur>
+		<categorie>Décoration</categorie>
+	</livres>
+	<livres>
+		<id>140</id>
+		<titre>Correspondance Textile</titre>
+		<auteur>Fanny Viollet et Yukiko Ogura</auteur>
+		<editeur>www.kousakusha.co.jp</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2001-11-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>141</id>
+		<titre>Point de croix contes de Perrault</titre>
+		<auteur>Frédérique Crestin-Billet</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2001-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>142</id>
+		<titre>Point de croix contes de Grimm</titre>
+		<auteur>Frédérique Crestin-Billet</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2001-01-01T00:00:00.000</dateachat>
+		<commentaire>30</commentaire>
+	</livres>
+	<livres>
+		<id>143</id>
+		<titre>Point de croix Alphabets et abécédaires</titre>
+		<auteur>Frédérique Crestin-Billet</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2001-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>144</id>
+		<titre>Wafu Momen</titre>
+		<sstitre>Patchwork bags with typical-Patterned Cotton Fablics</sstitre>
+		<auteur>Japonais</auteur>
+		<editeur>Olympus</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>145</id>
+		<titre>Amish Wall Quilts</titre>
+		<auteur>Rachel Thomas Pellman</auteur>
+		<editeur>That Patchwork Place</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2003-05-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>146</id>
+		<titre>Point Passion, Broderie aupoint de croix pour la maison</titre>
+		<auteur>Sophie Choussy</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-10-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>147</id>
+		<titre>Point de croix Au bonheur des filles</titre>
+		<auteur>Anne Tricaud</auteur>
+		<editeur>Réunion des musées Nationaux</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>148</id>
+		<titre>Passion point de croix</titre>
+		<auteur>Catherine Allègre-Papadacci</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2000-03-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>149</id>
+		<titre>Le Point de croix au fil des saisons</titre>
+		<auteur>Sandrine Sitaud</auteur>
+		<editeur>Solar</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2002-06-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>150</id>
+		<titre>Broder avec de la laine</titre>
+		<sstitre>40 modèles pour décorer votre maison</sstitre>
+		<auteur>Mary Norden</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Broderie</categorie>
+	</livres>
+	<livres>
+		<id>151</id>
+		<titre>Les Quilts de Kaffe Fassett</titre>
+		<sstitre>Plus de 25 modèles de Quilts</sstitre>
+		<auteur>Kaffe Fassett</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>152</id>
+		<titre>Patchwork dans un verger</titre>
+		<sstitre>Motifs à appliquer et matelasser</sstitre>
+		<auteur>Janet Bolton</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2002-07-01T00:00:00.000</dateachat>
+		<commentaire>Offert par Cynthia Selig</commentaire>
+	</livres>
+	<livres>
+		<id>153</id>
+		<titre>La couture pratique</titre>
+		<editeur>Burda</editeur>
+		<categorie>Couture</categorie>
+	</livres>
+	<livres>
+		<id>154</id>
+		<titre>501 Quilt Blocks</titre>
+		<sstitre>A treasury of Patterns for Patchwork &amp; Appliqué</sstitre>
+		<auteur>Joan Lewis and Lynette Chiles</auteur>
+		<editeur>Better Homes and Gardens Books</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>155</id>
+		<titre>Quilts &amp; Patchworks</titre>
+		<auteur>Linda Seward</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>156</id>
+		<titre>Le Patchwork</titre>
+		<sstitre>25 projets d'inspiration traditionnelle</sstitre>
+		<auteur>Diana Lodge</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>157</id>
+		<titre>Animaux en tissus</titre>
+		<sstitre>Techniques et Modèles</sstitre>
+		<auteur>Nicki Wheeler</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2001-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>158</id>
+		<titre>Provence Terre de Lavande</titre>
+		<auteur>Hans Silvester</auteur>
+		<editeur>Editions de La Martinière</editeur>
+		<categorie>Photographie</categorie>
+		<commentaire>Offert par Dominique Charron</commentaire>
+	</livres>
+	<livres>
+		<id>159</id>
+		<titre>Les Chats de Soleil</titre>
+		<auteur>Hans Silvester</auteur>
+		<editeur>Editions de La Martinière</editeur>
+		<categorie>Photographie</categorie>
+		<commentaire>Offert par Philippe</commentaire>
+	</livres>
+	<livres>
+		<id>160</id>
+		<titre>Un amour de chats</titre>
+		<sstitre>Les filleuls du Chat Moune</sstitre>
+		<auteur>Philippe Ragueneau</auteur>
+		<editeur>Jacqes Grancher</editeur>
+		<categorie>Roman</categorie>
+		<commentaire>Offert par Marie-Hélène</commentaire>
+	</livres>
+	<livres>
+		<id>161</id>
+		<titre>European Art Quilt</titre>
+		<auteur>Jette Clover</auteur>
+		<editeur>Nederlands Textielmuseum NO</editeur>
+		<categorie>Patchwork</categorie>
+		<commentaire>Catalogue expo</commentaire>
+	</livres>
+	<livres>
+		<id>162</id>
+		<titre>Patchwork en Fête</titre>
+		<auteur>Hélène Chireux-Chalendard</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>163</id>
+		<titre>Five- and Seven- Patch Blocks &amp; Quilts for ScrapSaver</titre>
+		<auteur>Judy Hopkins</auteur>
+		<editeur>That Patchwork Place</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>1997-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>164</id>
+		<titre>Patchworks utiles</titre>
+		<sstitre>Sacs, pochettes et accessoires</sstitre>
+		<auteur>Martine Routier</auteur>
+		<editeur>Editions Didier Carpentier</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>165</id>
+		<titre>La broderie du linge de maison</titre>
+		<sstitre>Les abécédaires de D. Porthault</sstitre>
+		<auteur>Eglé Salvy</auteur>
+		<editeur>France Loisirs</editeur>
+		<categorie>Broderie</categorie>
+	</livres>
+	<livres>
+		<id>166</id>
+		<titre>L'Art du Point de Croix</titre>
+		<auteur>Fanny Viollet</auteur>
+		<editeur>France Loisirs</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>167</id>
+		<titre>Point de croix 40 modèles à broder pour les enfants</titre>
+		<auteur>Catherine Allègre-Papadacci</auteur>
+		<editeur>Armand Collin</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>168</id>
+		<titre>Le cartonnage</titre>
+		<sstitre>Techniques et créations</sstitre>
+		<auteur>Laurence Anquetin</auteur>
+		<editeur>Fleurus</editeur>
+		<categorie>Cartonnage</categorie>
+	</livres>
+	<livres>
+		<id>169</id>
+		<titre>Le patchwork facile</titre>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>170</id>
+		<titre>Le Rouge traditionnel au point de croix</titre>
+		<auteur>Laurence Roque et Françoise Clozel</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>171</id>
+		<titre>Carnet de point de croix Bonne Nuit les petits</titre>
+		<auteur>Denis Chabault</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>172</id>
+		<titre>Broderies en perles</titre>
+		<sstitre>Maisons de vacances</sstitre>
+		<auteur>Mapie Bukhardt Françoise Luthier</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>173</id>
+		<titre>Broderie aux rubans et fils de soie</titre>
+		<auteur>Véronique Richard</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2004-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>174</id>
+		<titre>Poupées en chiffon</titre>
+		<auteur>Sonia Lucano</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Poupées</categorie>
+		<dateachat>2004-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>175</id>
+		<titre>Point de croix autour du monde</titre>
+		<auteur>Catherine Allègre-Papadacci</auteur>
+		<editeur>Solar</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-01-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>176</id>
+		<titre>Basic Seminole Patchwork</titre>
+		<auteur>Cheryl Greider Bradkin</auteur>
+		<editeur>Leone Publications</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2003-04-01T00:00:00.000</dateachat>
+		<commentaire>Cotton &amp; color - occasion</commentaire>
+	</livres>
+	<livres>
+		<id>177</id>
+		<titre>Les bases du patchwork</titre>
+		<sstitre>avec patrons</sstitre>
+		<auteur>non spécifié</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+		<commentaire>90 F</commentaire>
+	</livres>
+	<livres>
+		<id>178</id>
+		<titre>Cozy Cabin Quilts</titre>
+		<sstitre>from Thimbleberries</sstitre>
+		<auteur>Lynette Jensen</auteur>
+		<editeur>C&amp;T publishing</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-02-01T00:00:00.000</dateachat>
+		<commentaire>30€ à Florence</commentaire>
+	</livres>
+	<livres>
+		<id>179</id>
+		<titre>ABC aux Ancolies</titre>
+		<sstitre>Monogrammes à broder au point de croix</sstitre>
+		<auteur>?</auteur>
+		<editeur>Rouge du Rhin</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2003-08-01T00:00:00.000</dateachat>
+		<commentaire>15</commentaire>
+	</livres>
+	<livres>
+		<id>180</id>
+		<titre>Paske Med Tildas Venner</titre>
+		<auteur>?</auteur>
+		<editeur>Cappelen</editeur>
+		<categorie>Poupées</categorie>
+		<dateachat>2004-02-01T00:00:00.000</dateachat>
+		<commentaire>33€ Riehen (49 FS)</commentaire>
+	</livres>
+	<livres>
+		<id>181</id>
+		<titre>Transferts pour Appliqué</titre>
+		<auteur>Huguette et Clémence Kirby</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Broderie</categorie>
+	</livres>
+	<livres>
+		<id>182</id>
+		<titre>Patchwork traditionnel</titre>
+		<sstitre>Créations pour la maison</sstitre>
+		<auteur>Annlee Landman</auteur>
+		<editeur>Dessain et tolra</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>183</id>
+		<titre>Shortcuts</titre>
+		<sstitre>l'ABC du cutter à roulette</sstitre>
+		<auteur>Donna Lynn Thomas</auteur>
+		<editeur>That Patchwork Place</editeur>
+		<categorie>Patchwork</categorie>
+		<commentaire>124F</commentaire>
+	</livres>
+	<livres>
+		<id>184</id>
+		<titre>Morceaux Choisis</titre>
+		<auteur>Claude Favre - Hélène Chireux</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+		<commentaire>1er livre patch</commentaire>
+	</livres>
+	<livres>
+		<id>185</id>
+		<titre>Patchwork Somptueux</titre>
+		<auteur>Christine Dolnaldson</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-04-01T00:00:00.000</dateachat>
+		<commentaire>18,05€ fnac</commentaire>
+	</livres>
+	<livres>
+		<id>186</id>
+		<titre>Patchwork Bears</titre>
+		<auteur>Dorthe Jollman</auteur>
+		<editeur>Kelematis</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-05-01T00:00:00.000</dateachat>
+		<commentaire>30 € riehen</commentaire>
+	</livres>
+	<livres>
+		<id>187</id>
+		<titre>Patchwork Taschen</titre>
+		<auteur>Lise Szymanski</auteur>
+		<editeur>Kelematis</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-05-01T00:00:00.000</dateachat>
+		<commentaire>27 € riehen</commentaire>
+	</livres>
+	<livres>
+		<id>188</id>
+		<titre>Collages de serviettes</titre>
+		<sstitre>pour le jardin et la maison</sstitre>
+		<auteur>Marie Endelen-Debuisson</auteur>
+		<editeur>Fleurus</editeur>
+		<categorie>Collage serviettes</categorie>
+		<dateachat>2004-06-01T00:00:00.000</dateachat>
+		<commentaire>15,50€ RUC</commentaire>
+	</livres>
+	<livres>
+		<id>189</id>
+		<titre>Miss Rosies's Floral Quilts</titre>
+		<sstitre>7 projects</sstitre>
+		<auteur>Carrie L. Nelson</auteur>
+		<editeur>Leisure Arts</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-07-01T00:00:00.000</dateachat>
+		<commentaire>22,70 FCH Riehen</commentaire>
+	</livres>
+	<livres>
+		<id>190</id>
+		<titre>Small Amish Quilt PATTERNS</titre>
+		<sstitre>Revised Edition / For Crib Quilts and Wall Hangings</sstitre>
+		<auteur>Rachel T. Pellman</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-09-01T00:00:00.000</dateachat>
+		<commentaire>13,5 € ste marie</commentaire>
+	</livres>
+	<livres>
+		<id>191</id>
+		<titre>Amish Crib Quilts from the midwest</titre>
+		<sstitre>the Sara Miller Collection</sstitre>
+		<auteur>Janneken Smucker, Patricia Cox Crews, Linda Welters</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-09-01T00:00:00.000</dateachat>
+		<commentaire>18,50€ ste marie</commentaire>
+	</livres>
+	<livres>
+		<id>192</id>
+		<titre>Les bases du trapunto</titre>
+		<editeur>Magic Patch</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-09-01T00:00:00.000</dateachat>
+		<commentaire>128F</commentaire>
+	</livres>
+	<livres>
+		<id>193</id>
+		<titre>L'énigme amish</titre>
+		<sstitre>Vivre au XXIe siècle comme au XVIIe</sstitre>
+		<auteur>Jacques Légeret</auteur>
+		<editeur>Labor et Fides</editeur>
+		<categorie>Roman</categorie>
+		<dateachat>2003-09-01T00:00:00.000</dateachat>
+		<commentaire>Ste marie</commentaire>
+	</livres>
+	<livres>
+		<id>194</id>
+		<titre>Alaphabets en saisons</titre>
+		<auteur>Stéphanie Beillouin, Picoti picota</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-10-01T00:00:00.000</dateachat>
+		<commentaire>10,50€ RUC chq livre</commentaire>
+	</livres>
+	<livres>
+		<id>195</id>
+		<titre>Petits messages au point de croix</titre>
+		<auteur>Anne Van Damme</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-10-01T00:00:00.000</dateachat>
+		<commentaire>15€ RUC chq livre</commentaire>
+	</livres>
+	<livres>
+		<id>196</id>
+		<titre>Ours, chats, poules, souris en tissus</titre>
+		<auteur>Christinane Vignal</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-10-01T00:00:00.000</dateachat>
+		<commentaire>14,50€ chq livre</commentaire>
+	</livres>
+	<livres>
+		<id>197</id>
+		<titre>Fleurs et Alphabets Fleuris</titre>
+		<sstitre>à broder au point de croix</sstitre>
+		<auteur>Véronique Maillard</auteur>
+		<editeur>Flammarion</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-11-01T00:00:00.000</dateachat>
+		<commentaire>25,50 € RUC chq livre</commentaire>
+	</livres>
+	<livres>
+		<id>198</id>
+		<titre>Dentelles et Rubans</titre>
+		<sstitre>Cahier du Créateur</sstitre>
+		<auteur>Anne Van Damme</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2004-11-01T00:00:00.000</dateachat>
+		<commentaire>15 € morschwiller</commentaire>
+	</livres>
+	<livres>
+		<id>199</id>
+		<titre>Elegant Stitches</titre>
+		<auteur>Judith Baker Montano</auteur>
+		<editeur>C&amp;T publishing</editeur>
+		<categorie>Broderie rubans</categorie>
+		<dateachat>2004-11-01T00:00:00.000</dateachat>
+		<commentaire>20,30€ Amazon.fr</commentaire>
+	</livres>
+	<livres>
+		<id>200</id>
+		<titre>Les amish</titre>
+		<sstitre>Une énigme pour le monde moderne</sstitre>
+		<auteur>Donald B. Kraybill</auteur>
+		<editeur>Excelsis</editeur>
+		<categorie>Roman/Amish</categorie>
+		<dateachat>2004-09-01T00:00:00.000</dateachat>
+		<commentaire>20 € ste marie aux mines</commentaire>
+	</livres>
+	<livres>
+		<id>201</id>
+		<titre>Caravan of Quilts</titre>
+		<sstitre>book number 6</sstitre>
+		<auteur>Kaffe Fassett</auteur>
+		<editeur>Rowan</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-12-18T00:00:00.000</dateachat>
+		<commentaire>19,80€ amazon.fr</commentaire>
+	</livres>
+	<livres>
+		<id>202</id>
+		<titre>Rowan Patchwork and Quilting Book Number 2</titre>
+		<sstitre>Book number 2</sstitre>
+		<auteur>Kaffe Fassett</auteur>
+		<editeur>Rowan</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2004-12-24T00:00:00.000</dateachat>
+		<commentaire>13,50€  amazon.fr/Books and music (occasion neuf)</commentaire>
+	</livres>
+	<livres>
+		<id>203</id>
+		<titre>Die Arche Noah</titre>
+		<sstitre>Nähen, quilten, applizieren</sstitre>
+		<auteur>Anne-Pia Godske Rasmussen</auteur>
+		<editeur>Klematis</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-03-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>204</id>
+		<titre>Fein eingefädelt</titre>
+		<auteur>Anne-Pia Godske Rasmussen</auteur>
+		<editeur>Klematis</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-03-01T00:00:00.000</dateachat>
+	</livres>
+	<livres>
+		<id>205</id>
+		<titre>Patchwork Lessons 2</titre>
+		<sstitre>Japonais</sstitre>
+		<editeur>Japonais</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-07-01T00:00:00.000</dateachat>
+		<commentaire>Riehen 40 €
+ISBN4-579-10759-4</commentaire>
+	</livres>
+	<livres>
+		<id>206</id>
+		<titre>Lust auf Lavendel</titre>
+		<sstitre>Stickereien in Sommerlaune</sstitre>
+		<editeur>acufactum</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2005-08-01T00:00:00.000</dateachat>
+		<commentaire>15€, Fil du Temps à Strasbourg</commentaire>
+	</livres>
+	<livres>
+		<id>207</id>
+		<titre>Plein de maisons</titre>
+		<sstitre>Les Quilts de Yoko Saito</sstitre>
+		<auteur>Yoko Saito</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-08-01T00:00:00.000</dateachat>
+		<commentaire>30€ riehen</commentaire>
+	</livres>
+	<livres>
+		<id>208</id>
+		<titre>Why Do They Dress That Way ?</titre>
+		<sstitre>People's Place Book No 7</sstitre>
+		<auteur>Stephen Scott</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>Ste marie 8,50€</commentaire>
+	</livres>
+	<livres>
+		<id>209</id>
+		<titre>Doudous câlins à coudre</titre>
+		<auteur>Claude Schmill - Van den Berghe</auteur>
+		<editeur>Editions Didier Carpentier</editeur>
+		<categorie>Couture</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>ste marie 6,56</commentaire>
+	</livres>
+	<livres>
+		<id>210</id>
+		<titre>A History of the Amish</titre>
+		<auteur>Steven M. Nolt</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>ste marie 10</commentaire>
+	</livres>
+	<livres>
+		<id>211</id>
+		<titre>Small quilt</titre>
+		<sstitre>ISBN4-529-03935-8</sstitre>
+		<editeur>www.tezukuritown.com</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>ste marie 20€</commentaire>
+	</livres>
+	<livres>
+		<id>212</id>
+		<titre>Les Quilts Gallois</titre>
+		<sstitre>Welsh Quilts</sstitre>
+		<auteur>Jen Jones</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>ste marie 39€</commentaire>
+	</livres>
+	<livres>
+		<id>213</id>
+		<titre>Les Samplers en rouge et blanc</titre>
+		<auteur>Isabelle Vautier</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2006-01-01T00:00:00.000</dateachat>
+		<commentaire>offert par Dominique (anniversaire)</commentaire>
+	</livres>
+	<livres>
+		<id>214</id>
+		<titre>Amish Patterns for machine quilting</titre>
+		<auteur>Pat Holly and Sue Nickels</auteur>
+		<editeur>Dover publications</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-10-01T00:00:00.000</dateachat>
+		<commentaire>amazon.fr 7,61€</commentaire>
+		<montant>7.6171</montant>
+	</livres>
+	<livres>
+		<id>215</id>
+		<titre>Quick Country Quilting</titre>
+		<sstitre>Over 80 projects featuring easy, timesaving techniques</sstitre>
+		<auteur>Debbie Mumm</auteur>
+		<editeur>Rodale Press, Emmaus Pennsylvania</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-10-01T00:00:00.000</dateachat>
+		<commentaire>amazon.fr 13,59€</commentaire>
+	</livres>
+	<livres>
+		<id>216</id>
+		<titre>Amish Quilt Patterns</titre>
+		<sstitre>32 Pieced Patterns</sstitre>
+		<auteur>Rachel T. Pellman</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2005-10-01T00:00:00.000</dateachat>
+		<commentaire>amazon.fr 12,73€</commentaire>
+		<montant>12.73385</montant>
+	</livres>
+	<livres>
+		<id>217</id>
+		<titre>Silk Ribbon Embroidery</titre>
+		<sstitre>Designes &amp; Techniques</sstitre>
+		<auteur>Ann Cox</auteur>
+		<editeur>Search Press Needlecrafts</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2005-10-01T00:00:00.000</dateachat>
+		<commentaire>amazon.fr 13,78 €</commentaire>
+	</livres>
+	<livres>
+		<id>218</id>
+		<titre>Country Cross-stitch Designs</titre>
+		<sstitre>An American Sampler - 1990</sstitre>
+		<auteur>Ekkeb Stouffer</auteur>
+		<editeur>Sedgewood Press</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>offert par Jack Gibson</commentaire>
+	</livres>
+	<livres>
+		<id>219</id>
+		<titre>Quilt Designs in Cross-stitch</titre>
+		<sstitre>An American Sampler - 1989</sstitre>
+		<auteur>Vanessa-Ann</auteur>
+		<editeur>Sedgewood Press</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2005-09-01T00:00:00.000</dateachat>
+		<commentaire>offert par Jack Gibson</commentaire>
+	</livres>
+	<livres>
+		<id>220</id>
+		<titre>Rideaux !</titre>
+		<auteur>Katrin Cargill</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>couture</categorie>
+		<dateachat>2005-06-01T00:00:00.000</dateachat>
+		<commentaire>mondial tissu 20 €</commentaire>
+	</livres>
+	<livres>
+		<id>221</id>
+		<titre>Amish Children</titre>
+		<auteur>Phyllis Pellman Good</auteur>
+		<editeur>Good Books</editeur>
+		<categorie>Amishs</categorie>
+		<dateachat>2006-09-01T00:00:00.000</dateachat>
+		<commentaire>Ste marie 18 €</commentaire>
+	</livres>
+	<livres>
+		<id>222</id>
+		<titre>Tildas hus</titre>
+		<auteur>Tone Finnanger</auteur>
+		<editeur>Cappelen</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2006-11-01T00:00:00.000</dateachat>
+		<commentaire>Riehen</commentaire>
+	</livres>
+	<livres>
+		<id>223</id>
+		<titre>Project Book</titre>
+		<sstitre>The Cross Stiticher's Bible</sstitre>
+		<auteur>Jane Greenoff</auteur>
+		<editeur>The cross stitch guild</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>224</id>
+		<titre>Mosaïque pour le jardin</titre>
+		<sstitre>Décors d'extérieur artistiques</sstitre>
+		<auteur>Catherine Massey et Annette Wragge</auteur>
+		<editeur>Topp</editeur>
+		<categorie>Mosaique</categorie>
+		<dateachat>2007-04-01T00:00:00.000</dateachat>
+		<commentaire>forum 7,50</commentaire>
+	</livres>
+	<livres>
+		<id>225</id>
+		<titre>Mosaïque</titre>
+		<sstitre>Aménagements, rénovations et décorations</sstitre>
+		<auteur>Elena Fiore</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Mosaique</categorie>
+		<dateachat>2007-04-01T00:00:00.000</dateachat>
+		<commentaire>forum 15</commentaire>
+	</livres>
+	<livres>
+		<id>226</id>
+		<titre>Broderie &amp; Cartonnage pour enfants sages</titre>
+		<auteur>Sylvie Castellano &amp; Sophie Delaborde</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>227</id>
+		<titre>Piqué-libre : la machine à coudre créative</titre>
+		<auteur>Fanny Viollet</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>228</id>
+		<titre>Motifs appliqués</titre>
+		<auteur>Yoko Saito</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+	</livres>
+	<livres>
+		<id>229</id>
+		<titre>Country au point de croix</titre>
+		<auteur>Helen Wind</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+	</livres>
+	<livres>
+		<id>230</id>
+		<titre>House</titre>
+		<auteur>collectif</auteur>
+		<editeur>japonais</editeur>
+		<categorie>patchwork</categorie>
+		<dateachat>2006-09-01T00:00:00.000</dateachat>
+		<commentaire>couserie creative 19€</commentaire>
+		<montant>19</montant>
+	</livres>
+	<livres>
+		<id>231</id>
+		<titre>Sweet Country Quilt</titre>
+		<auteur>Kumiko Minami</auteur>
+		<editeur>japonais</editeur>
+		<categorie>patchwork</categorie>
+		<dateachat>2006-09-01T00:00:00.000</dateachat>
+		<commentaire>couserie creative 19€</commentaire>
+		<montant>19</montant>
+	</livres>
+	<livres>
+		<id>232</id>
+		<titre>Le grand livre des Monogrammes</titre>
+		<auteur>Annic Hurtrer Sandrine Déon</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-06-01T00:00:00.000</dateachat>
+		<commentaire>noz</commentaire>
+		<montant>2.9</montant>
+	</livres>
+	<livres>
+		<id>233</id>
+		<titre>Alphabet de la brodeuse</titre>
+		<sstitre>Monogrammes et festons</sstitre>
+		<editeur>L'inédite</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-06-01T00:00:00.000</dateachat>
+		<commentaire>cadeau France Point de croix</commentaire>
+	</livres>
+	<livres>
+		<id>234</id>
+		<titre>Petits rouges d'ici et d'ailleurs</titre>
+		<auteur>Muriel Brunet et Françoise Ritz</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>cora</commentaire>
+		<montant>15</montant>
+	</livres>
+	<livres>
+		<id>235</id>
+		<titre>Une maison de charme</titre>
+		<auteur>Christina Strutt</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Couture</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>fnac</commentaire>
+		<montant>18</montant>
+	</livres>
+	<livres>
+		<id>236</id>
+		<titre>Sommergäste</titre>
+		<sstitre>Kunstvolle Blüten und Paradiesvögel im Kreuzstich</sstitre>
+		<editeur>acufactum</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2006-09-01T00:00:00.000</dateachat>
+		<commentaire>fil du temps - ste marie aux mines</commentaire>
+	</livres>
+	<livres>
+		<id>237</id>
+		<titre>Un air de campagne</titre>
+		<sstitre>plus de 120 motifs à broder au point de croix</sstitre>
+		<auteur>Marie-Anne Réthoret-Mélin</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>4.96</montant>
+	</livres>
+	<livres>
+		<id>238</id>
+		<titre>Cartonnage brodé</titre>
+		<sstitre>au fil des boîtes</sstitre>
+		<auteur>Sophie Delaborde &amp; Sylvie Castellano</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>18.01</montant>
+	</livres>
+	<livres>
+		<id>239</id>
+		<titre>Rosenküsse</titre>
+		<sstitre>Liaison von Patchwork &amp; Kreuzstitch</sstitre>
+		<editeur>acufactum</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>Acufactum.de</commentaire>
+		<montant>23.7</montant>
+	</livres>
+	<livres>
+		<id>240</id>
+		<titre>Tout un sac</titre>
+		<editeur>Hachette</editeur>
+		<categorie>Couture</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>7.5</montant>
+	</livres>
+	<livres>
+		<id>241</id>
+		<titre>Herzen</titre>
+		<editeur>acufactum</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>Acufactum.de</commentaire>
+		<montant>15.4</montant>
+	</livres>
+	<livres>
+		<id>242</id>
+		<titre>Ein schwedischer Sommer</titre>
+		<sstitre>Stickereien in Sommerlaune</sstitre>
+		<editeur>acufactum</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-08-01T00:00:00.000</dateachat>
+		<commentaire>Acufactum.de</commentaire>
+		<montant>16.4</montant>
+	</livres>
+	<livres>
+		<id>243</id>
+		<titre>My baby Mon bébé</titre>
+		<auteur>non spécifié</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2007-09-01T00:00:00.000</dateachat>
+		<commentaire>red ranch</commentaire>
+		<montant>6</montant>
+	</livres>
+	<livres>
+		<id>244</id>
+		<titre>Motifs d'Asie centrale</titre>
+		<sstitre>à connaître et créer</sstitre>
+		<auteur>Claire Martin</auteur>
+		<editeur>Editions Ouest-France</editeur>
+		<categorie>dessin peinture</categorie>
+		<dateachat>2007-12-01T00:00:00.000</dateachat>
+		<commentaire>cultura</commentaire>
+		<montant>11</montant>
+	</livres>
+	<livres>
+		<id>245</id>
+		<titre>Machine Quilting Solutions</titre>
+		<sstitre>techniques for fast &amp; simple to award-winning designs</sstitre>
+		<auteur>Christine Maraccini</auteur>
+		<editeur>C&amp;T publishing</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2007-12-01T00:00:00.000</dateachat>
+		<commentaire>Cotton &amp; color</commentaire>
+	</livres>
+	<livres>
+		<id>246</id>
+		<titre>Heart &amp; Home</titre>
+		<sstitre>Quilt of the Month</sstitre>
+		<auteur>Suzanne Mc Neill</auteur>
+		<editeur>Design originals</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-03-01T00:00:00.000</dateachat>
+		<commentaire>Fatquartershop.com</commentaire>
+		<montant>10$-7€</montant>
+	</livres>
+	<livres>
+		<id>247</id>
+		<titre>You're Invited</titre>
+		<sstitre>Quilts and homes to Inspire</sstitre>
+		<auteur>Barb Adams &amp; Alma Allens of Blackbird Designs</auteur>
+		<editeur>Kansas City Star Quilts</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-03-01T00:00:00.000</dateachat>
+		<commentaire>Fatquartershop.com</commentaire>
+		<montant>26$-18€</montant>
+	</livres>
+	<livres>
+		<id>248</id>
+		<titre>A gardener's journal</titre>
+		<auteur>Anni Downs</auteur>
+		<editeur>Hatched and Patched</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-04-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>25</montant>
+		<comment2>http://www.hatchedandpatched.com.au/</comment2>
+	</livres>
+	<livres>
+		<id>249</id>
+		<titre>Kuschel-quilts und mehr…</titre>
+		<auteur>Dorthe Jollman</auteur>
+		<editeur>Klematis</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-04-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>30</montant>
+	</livres>
+	<livres>
+		<id>250</id>
+		<titre>A Christmas Stroy</titre>
+		<auteur>Anni Downs</auteur>
+		<editeur>Hatched and Patched</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-04-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>25</montant>
+		<comment2>http://www.hatchedandpatched.com.au/</comment2>
+	</livres>
+	<livres>
+		<id>251</id>
+		<titre>Mosaïque Créative</titre>
+		<auteur>Damian Sailor</auteur>
+		<editeur>creativa</editeur>
+		<categorie>Mosaique</categorie>
+		<dateachat>2008-04-01T00:00:00.000</dateachat>
+		<commentaire>truffaut</commentaire>
+		<montant>7</montant>
+		<comment2>www.creavenue.com</comment2>
+	</livres>
+	<livres>
+		<id>252</id>
+		<titre>Künstlertedddybären</titre>
+		<auteur>Corinna Siegel</auteur>
+		<editeur>Kreativ</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-04-01T00:00:00.000</dateachat>
+		<commentaire>Ingrid Waldmann - D</commentaire>
+		<montant>6.6</montant>
+	</livres>
+	<livres>
+		<id>253</id>
+		<titre>Calligraphie</titre>
+		<sstitre>100 alphabets</sstitre>
+		<auteur>David Harris</auteur>
+		<editeur>Eyrolles</editeur>
+		<categorie>calligraphie</categorie>
+		<dateachat>2008-05-01T00:00:00.000</dateachat>
+		<commentaire>cultura</commentaire>
+		<montant>28</montant>
+	</livres>
+	<livres>
+		<id>254</id>
+		<titre>Découverte de la calligraphie latine</titre>
+		<auteur>Shinta S. Zenker</auteur>
+		<editeur>Dessain et tolra</editeur>
+		<categorie>calligraphie</categorie>
+		<dateachat>2008-06-01T00:00:00.000</dateachat>
+		<commentaire>couleurs du temps</commentaire>
+		<montant>11.9</montant>
+	</livres>
+	<livres>
+		<id>255</id>
+		<titre>Home Sweet Home</titre>
+		<auteur>Barb Adams &amp; Alma Allens of Blackbird Designs</auteur>
+		<editeur>Kansas City Star Quilts</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-06-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>26</montant>
+	</livres>
+	<livres>
+		<id>256</id>
+		<titre>Tildas julehus</titre>
+		<auteur>Tone Finnanger</auteur>
+		<editeur>Cappelen</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-06-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>36</montant>
+	</livres>
+	<livres>
+		<id>257</id>
+		<titre>Simple Pleasures</titre>
+		<sstitre>A little book of little stitches</sstitre>
+		<auteur>Anni Downs</auteur>
+		<editeur>Hatched and Patched</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-10-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>16.45</montant>
+	</livres>
+	<livres>
+		<id>258</id>
+		<titre>An angels story</titre>
+		<auteur>Anni Downs</auteur>
+		<editeur>Hatched and Patched</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-10-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>24.5</montant>
+	</livres>
+	<livres>
+		<id>259</id>
+		<titre>Patchwork et appliqué brodé</titre>
+		<auteur>Delphine Mongrand</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2008-10-01T00:00:00.000</dateachat>
+		<commentaire>ste marie aux mines</commentaire>
+		<montant>18</montant>
+	</livres>
+	<livres>
+		<id>260</id>
+		<titre>Résine déco</titre>
+		<sstitre>30 créations déco à faire soi-même</sstitre>
+		<auteur>Sylvie Hooghe</auteur>
+		<editeur>Fleurus</editeur>
+		<categorie>Résine</categorie>
+		<dateachat>2008-11-01T00:00:00.000</dateachat>
+		<commentaire>cora</commentaire>
+		<montant>14.73</montant>
+	</livres>
+	<livres>
+		<id>261</id>
+		<titre>Sacs et accessoires</titre>
+		<sstitre>Alles im griff</sstitre>
+		<auteur>Anne-Pia Godske Rasmussen</auteur>
+		<editeur>Klematis</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2009-02-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>31.5</montant>
+		<comment2>22€ racheté en français en oct 2010 amazon</comment2>
+	</livres>
+	<livres>
+		<id>262</id>
+		<titre>Jelly Roll Quilts</titre>
+		<auteur>Pam &amp; Nicky Lintott</auteur>
+		<editeur>David and Charles</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2009-02-01T00:00:00.000</dateachat>
+		<commentaire>cotton &amp; color</commentaire>
+		<montant>17.5</montant>
+	</livres>
+	<livres>
+		<id>263</id>
+		<titre>Les marquoirs d'école</titre>
+		<auteur>Muriel Brunet et Françoise Ritz</auteur>
+		<editeur>Marabout d'ficelle</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2009-02-01T00:00:00.000</dateachat>
+		<commentaire>red ranch</commentaire>
+		<montant>4.45</montant>
+	</livres>
+	<livres>
+		<id>264</id>
+		<titre>ABC County</titre>
+		<sstitre>au point de croix</sstitre>
+		<auteur>Helen Wind</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2008-01-01T00:00:00.000</dateachat>
+		<montant>15</montant>
+	</livres>
+	<livres>
+		<id>265</id>
+		<titre>Japon au point de croix</titre>
+		<auteur>Anne Sohier-Fournel</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2009-06-19T00:00:00.000</dateachat>
+		<commentaire>cultura</commentaire>
+		<montant>15</montant>
+	</livres>
+	<livres>
+		<id>266</id>
+		<titre>Le carton</titre>
+		<sstitre>Accessoires, déco, rangements</sstitre>
+		<auteur>Dominique Augagneur</auteur>
+		<editeur>Minerva</editeur>
+		<categorie>Cartonnage</categorie>
+		<dateachat>2009-08-24T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>13.21</montant>
+	</livres>
+	<livres>
+		<id>267</id>
+		<titre>les  bases du cartonnage</titre>
+		<sstitre>25 modèles déco</sstitre>
+		<auteur>Valérie Maria-Grunberg</auteur>
+		<editeur>Carpentier</editeur>
+		<categorie>Cartonnage</categorie>
+		<dateachat>2009-08-24T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>11</montant>
+	</livres>
+	<livres>
+		<id>268</id>
+		<titre>Stylish dress book</titre>
+		<sstitre>Japonais</sstitre>
+		<auteur>inconnu</auteur>
+		<editeur>yoshiko tsukiori</editeur>
+		<categorie>couture</categorie>
+		<dateachat>2009-09-19T00:00:00.000</dateachat>
+		<commentaire>la couserie creative</commentaire>
+		<montant>19</montant>
+	</livres>
+	<livres>
+		<id>269</id>
+		<titre>livre de sacs japonais</titre>
+		<auteur>Akemi Shibata</auteur>
+		<editeur>www.tezukuritown.com</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2009-09-19T00:00:00.000</dateachat>
+		<commentaire>la couserie creative</commentaire>
+		<montant>20</montant>
+	</livres>
+	<livres>
+		<id>270</id>
+		<titre>120 modèles de broderie</titre>
+		<auteur>Yoko Saito</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2009-09-19T00:00:00.000</dateachat>
+		<commentaire>quiltmania ste marie</commentaire>
+		<montant>32</montant>
+	</livres>
+	<livres>
+		<id>271</id>
+		<titre>les quilts scandinaves</titre>
+		<auteur>Yoko Saito</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2009-09-19T00:00:00.000</dateachat>
+		<commentaire>quiltmania ste marie</commentaire>
+		<montant>28</montant>
+	</livres>
+	<livres>
+		<id>272</id>
+		<titre>les appliqués brodés de lucie</titre>
+		<auteur>Delphine Mongrand</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2009-09-19T00:00:00.000</dateachat>
+		<commentaire>les boutis de lucie ste marie</commentaire>
+		<montant>19</montant>
+	</livres>
+	<livres>
+		<id>273</id>
+		<titre>Exercice de style</titre>
+		<sstitre>au point de croix</sstitre>
+		<auteur>Marie Suarez &amp; Katrin Laeremans</auteur>
+		<editeur>Marabout</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2010-01-02T00:00:00.000</dateachat>
+		<commentaire>fnac</commentaire>
+		<montant>15</montant>
+	</livres>
+	<livres>
+		<id>274</id>
+		<titre>Cartonnage pour le bureau</titre>
+		<auteur>Oncle Pol &amp; Nadine Conty</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Cartonnage</categorie>
+		<dateachat>2009-12-27T00:00:00.000</dateachat>
+		<commentaire>pirus chaumont</commentaire>
+		<montant>15.5</montant>
+	</livres>
+	<livres>
+		<id>275</id>
+		<titre>Sweet Home</titre>
+		<sstitre>petites maisons à broder au point de croix</sstitre>
+		<auteur>Marie-Anne Réthoret-Mélin</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2010-01-02T00:00:00.000</dateachat>
+		<commentaire>fnac</commentaire>
+		<montant>13</montant>
+	</livres>
+	<livres>
+		<id>276</id>
+		<titre>Broderies sur imprimés</titre>
+		<auteur>Agnès Delage-Calvet</auteur>
+		<editeur>LTA</editeur>
+		<categorie>Broderie</categorie>
+		<dateachat>2009-12-25T00:00:00.000</dateachat>
+		<commentaire>offert par arnaud (cultura)</commentaire>
+		<montant>23.5</montant>
+	</livres>
+	<livres>
+		<id>277</id>
+		<titre>Une journée chez Tilda</titre>
+		<auteur>Tone Finnanger</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2010-03-24T00:00:00.000</dateachat>
+		<commentaire>cultura</commentaire>
+		<montant>20</montant>
+	</livres>
+	<livres>
+		<id>278</id>
+		<titre>ABC Miniatures</titre>
+		<auteur>Françoise Prax</auteur>
+		<editeur>Marabout d'ficelle</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2010-05-28T00:00:00.000</dateachat>
+		<commentaire>pt chose</commentaire>
+		<montant>10.9</montant>
+	</livres>
+	<livres>
+		<id>279</id>
+		<titre>rainbow cottage</titre>
+		<auteur>Lynette Anderson</auteur>
+		<editeur>Lynette Anderson</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2010-06-04T00:00:00.000</dateachat>
+		<commentaire>cotton&amp;color</commentaire>
+		<montant>24.84</montant>
+	</livres>
+	<livres>
+		<id>280</id>
+		<titre>Jelly Roll Inspirations</titre>
+		<auteur>Pam and Nicky Lintott</auteur>
+		<editeur>D&amp;C</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2010-07-20T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>15.33</montant>
+	</livres>
+	<livres>
+		<id>281</id>
+		<titre>Cartonnage</titre>
+		<auteur>Dominique Augagneur</auteur>
+		<editeur>le temps apprivoisé</editeur>
+		<categorie>Cartonnage</categorie>
+		<dateachat>2010-11-11T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>19.95</montant>
+	</livres>
+	<livres>
+		<id>282</id>
+		<titre>Rangements à coudre</titre>
+		<auteur>Cécile Franconie</auteur>
+		<editeur>le temps apprivoisé</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2010-11-25T00:00:00.000</dateachat>
+		<commentaire>cultura</commentaire>
+		<montant>12.9</montant>
+	</livres>
+	<livres>
+		<id>283</id>
+		<titre>One-block wonders encore</titre>
+		<auteur>Maxine Rosenthal &amp; Joy Pelzmann</auteur>
+		<editeur>C&amp;T publishing</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-03-07T00:00:00.000</dateachat>
+		<commentaire>amazon.com</commentaire>
+		<montant>12.45</montant>
+	</livres>
+	<livres>
+		<id>284</id>
+		<titre>Kaffe Fassett's Quilt Romance</titre>
+		<auteur>Kaffe Fassett</auteur>
+		<editeur>The Taunton Press</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-03-07T00:00:00.000</dateachat>
+		<commentaire>amazon.com</commentaire>
+		<montant>12.45</montant>
+	</livres>
+	<livres>
+		<id>285</id>
+		<titre>Linge ancien</titre>
+		<sstitre>Couture, broderie et cartonnage</sstitre>
+		<auteur>Sylvie Castellano</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-04-08T00:00:00.000</dateachat>
+		<commentaire>Bout'fil</commentaire>
+		<montant>20</montant>
+	</livres>
+	<livres>
+		<id>286</id>
+		<titre>Sacs, accessoires &amp; mini-quilts</titre>
+		<sstitre>en bleu blanc rouge</sstitre>
+		<auteur>Masako Wakayama</auteur>
+		<editeur>les éditions de saxe</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-05-01T00:00:00.000</dateachat>
+		<commentaire>pirus chaumont (dom)</commentaire>
+		<montant>10</montant>
+	</livres>
+	<livres>
+		<id>287</id>
+		<titre>Tendre couture</titre>
+		<sstitre>d'Anne-Pia</sstitre>
+		<auteur>Anne-Pia Godske Rasmussen</auteur>
+		<editeur>L'inédite</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-05-15T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>22</montant>
+	</livres>
+	<livres>
+		<id>288</id>
+		<titre>Un Kaleidoscope de quilts</titre>
+		<auteur>kaffe fassett</auteur>
+		<editeur>Quiltmania</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-05-15T00:00:00.000</dateachat>
+		<commentaire>offert par marie-laure</commentaire>
+	</livres>
+	<livres>
+		<id>289</id>
+		<titre>Esprit d'atelier</titre>
+		<auteur>Agnès Delage-Calvet Anne Sohier-Fournel</auteur>
+		<editeur>marabout</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-05-18T00:00:00.000</dateachat>
+		<commentaire>offet par claire</commentaire>
+	</livres>
+	<livres>
+		<id>290</id>
+		<titre>Sacs, sacoches &amp; co</titre>
+		<auteur>Emmanuelle Carré</auteur>
+		<editeur>tutti frutti</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2011-07-21T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>23.75</montant>
+	</livres>
+	<livres>
+		<id>291</id>
+		<titre>Some Kind of Wonderful</titre>
+		<sstitre>Hatched and Patched</sstitre>
+		<auteur>Anni Downs</auteur>
+		<editeur>kimber mitchell</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-08-01T00:00:00.000</dateachat>
+		<commentaire>riehen</commentaire>
+	</livres>
+	<livres>
+		<id>292</id>
+		<titre>Sacs et pochettes</titre>
+		<auteur>Emiko Takahashi</auteur>
+		<editeur>hachette pratique</editeur>
+		<categorie>couture</categorie>
+		<dateachat>2011-09-01T00:00:00.000</dateachat>
+		<montant>16.5</montant>
+	</livres>
+	<livres>
+		<id>293</id>
+		<titre>It's Quilting Cats &amp; Dogs</titre>
+		<sstitre>17 stitchery and patchwork for you to treasure</sstitre>
+		<auteur>Lynette Anderson</auteur>
+		<editeur>David and Charles</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-09-01T00:00:00.000</dateachat>
+		<montant>17.5</montant>
+	</livres>
+	<livres>
+		<id>294</id>
+		<titre>Strips &amp; Scraps</titre>
+		<sstitre>Une histoire d'amitié</sstitre>
+		<auteur>Edyta Star</auteur>
+		<editeur>editions de saxe</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-09-01T00:00:00.000</dateachat>
+		<commentaire>ste marie aux mines</commentaire>
+		<montant>24.5</montant>
+	</livres>
+	<livres>
+		<id>295</id>
+		<titre>Simple Home</titre>
+		<sstitre>Sweetwater's</sstitre>
+		<auteur>Lisa Burnette, Karla Eisenach &amp; Susan kendrick</auteur>
+		<editeur>stashbooks</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2011-11-01T00:00:00.000</dateachat>
+		<commentaire>riehen</commentaire>
+	</livres>
+	<livres>
+		<id>296</id>
+		<titre>Mon ours à moi</titre>
+		<sstitre>Créez votre ours en peluche</sstitre>
+		<auteur>Caroline Krystal-Lebaz</auteur>
+		<editeur>editions de saxe</editeur>
+		<categorie>ours</categorie>
+		<dateachat>2012-06-01T00:00:00.000</dateachat>
+		<commentaire>amazon</commentaire>
+		<montant>19.5</montant>
+	</livres>
+	<livres>
+		<id>297</id>
+		<titre>400 points de tricot</titre>
+		<sstitre>marie claire idées</sstitre>
+		<auteur>Danielle Dabarbieux</auteur>
+		<editeur>marie claire</editeur>
+		<categorie>tricot</categorie>
+		<dateachat>2012-12-01T00:00:00.000</dateachat>
+		<commentaire>phildar</commentaire>
+		<montant>9.95</montant>
+	</livres>
+	<livres>
+		<id>298</id>
+		<titre>Civil war legacies</titre>
+		<sstitre>Quilt patterns for reproduction fabrics</sstitre>
+		<auteur>Carol Hopkins</auteur>
+		<editeur>That Patchwork Place</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2013-04-01T00:00:00.000</dateachat>
+		<commentaire>riehen</commentaire>
+	</livres>
+	<livres>
+		<id>299</id>
+		<titre>131 Motifs au crochet</titre>
+		<auteur>shuko sato</auteur>
+		<editeur>editions de saxe</editeur>
+		<categorie>crochet</categorie>
+		<dateachat>2013-05-01T00:00:00.000</dateachat>
+		<montant>19.5</montant>
+	</livres>
+	<livres>
+		<id>300</id>
+		<titre>Esprit boudoir</titre>
+		<sstitre>à broder au point de croix</sstitre>
+		<auteur>, CMonMonde</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Point de croix</categorie>
+		<dateachat>2013-02-01T00:00:00.000</dateachat>
+		<commentaire>leclerc cernay</commentaire>
+		<montant>12.82</montant>
+	</livres>
+	<livres>
+		<id>301</id>
+		<titre>Un hiver avec Tilda</titre>
+		<auteur>Tone Finnanger</auteur>
+		<editeur>Mango Pratique</editeur>
+		<categorie>Patchwork</categorie>
+		<dateachat>2013-12-01T00:00:00.000</dateachat>
+		<commentaire>mondial tissu</commentaire>
+		<montant>13.9</montant>
+	</livres>
+	<livres/>
+</dataroot>

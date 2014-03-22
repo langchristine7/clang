@@ -1,0 +1,6 @@
+AuthUserFile /clang/admin/.htpasswd
+AuthName "Accès protégé"
+AuthType Basic
+
+deny from all
+
